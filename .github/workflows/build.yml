@@ -22,7 +22,7 @@ jobs:
         run: pyinstaller --onefile --windowed main.py  # Собираем .exe
 
       - name: Upload EXE
-        uses: actions/upload-artifact@v2  # Используем версию v2 для загрузки артефакта
+        uses: actions/upload-artifact@v3  # Используем версию v2 для загрузки артефакта
         with:
           name: my_program
           path: dist/main.exe
