@@ -1,0 +1,4 @@
+([('main',
+   '/Users/kurbansoevsuhrab/code/2) Тестовые '
+   'проекты/split_ui_git/split_pdf/dist/main',
+   'EXECUTABLE')],)
